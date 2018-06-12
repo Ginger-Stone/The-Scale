@@ -15,3 +15,7 @@ One thing I noted on the LCD connectivity was the address. It took me a while to
 
 I chose firebase due to its ease in intergration and the realtime syncing ability it provides.
 
+Get firebase-Arduino here: https://github.com/firebase/firebase-arduino
+
+You will also need to download the ArdinoJson library as its a Firebase-Arduino Dependancy. 
+Get it here: https://github.com/bblanchon/ArduinoJson 

@@ -1,0 +1,14 @@
+[{
+  "userID": {
+    "id": "100"
+  },
+  "username": "Mike Jordan",
+  "description": "Business Assistant"
+},
+  {
+    "userID":{
+      "id": "121",
+    },
+    "username": "Delilah Evans",
+    "description": "Head Of Department"
+    }]

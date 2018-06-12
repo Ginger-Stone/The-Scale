@@ -1,0 +1,12 @@
+{
+	"corn": {
+		"id": "1",
+		"type": "Jogoo",
+		"weight": "500kg"
+	},
+	"Sugar": {
+		"id": "2",
+		"type": "Mumias",
+		"weight": "300kg"
+	}
+}

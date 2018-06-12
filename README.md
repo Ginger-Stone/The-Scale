@@ -1,7 +1,7 @@
 # The-Scale
 A Node MCU (ESP8266 WiFi Module),Load Cell, HX711, LCD(I2C) and Firebase project.
 
-In this project, I made a picked data from my Load cell then amplified it using the HX711,
+In this project, I took data from my Load cell then amplified it using the HX711,
 I used Node MCU as the Microcontroller as it is capable of connectivity (IoT things).
 Using Firebase to collect the data from the Node MCU and Finally sent it to my Android app for some one to view and also to the LCD.
 
